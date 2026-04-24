@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-groq
+langchain-experimental
+langchain-community
+python-dotenv
+pandas
+numpy
+matplotlib
+seaborn
+tabulate
+scikit-learn
