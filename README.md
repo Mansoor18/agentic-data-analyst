@@ -1,3 +1,5 @@
+## 🚀 Live Demo
+https://agentic-data-analyst-lhh9vh2usvgrmaqdm8fxj7.streamlit.app/
 # Agentic Data Analyst
 
 An autonomous AI agent that analyses CSV datasets by dynamically writing 
